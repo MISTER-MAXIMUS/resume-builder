@@ -1,164 +1,33 @@
-# Blog Website README
+# 📄 Resume Builder  
 
-Welcome to our Blog Website! This document provides a simple overview to help you get started.
+A web-based **Resume Builder Application** that helps users create and download professional resumes in a clean format.  
+Built using **HTML, CSS, JavaScript, and Node.js**, this project highlights my skills in full-stack development and creating user-friendly tools.  
 
-## Features
+---
 
-- **User Registration**: Create an account to start posting and commenting.
-- **Create Posts**: Share your thoughts and experiences with our community.
-- **Comment on Posts**: Engage with other users by commenting on their posts.
-- **Categories and Tags**: Organize your posts using categories and tags for easy navigation.
-- **Responsive Design**: Enjoy a seamless experience on both desktop and mobile devices.
+## 🚀 Highlights  
+- 📝 Create resumes with customizable sections (Education, Skills, Experience, Projects)  
+- 🎨 Responsive design for mobile and desktop  
+- ⬇️ Download resumes in PDF format  
+- ⚡ Fast, simple, and user-friendly interface  
 
-## Getting Started
+---
 
-### Prerequisites
+## 🛠 Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **PDF Generation:** jsPDF / html-pdf  
+- **Database (optional):** MongoDB / PostgreSQL (if persistence is included)  
 
-Ensure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (version 14.x or higher)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
-
-### Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/blog-website.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd blog-website
-    ```
-3. Install dependencies:
-    ```sh
-    npm install
-    ```
-
-### Running the Application
-
-To start the application, run:
-
-```sh
-npm start
-The application will be accessible at http://localhost:3000.
-
-Usage
-Creating a Post
-Register or log in to your account.
-Click on "Create Post" in the navigation menu.
-Fill in the post title, content, and select appropriate categories and tags.
-Click "Submit" to publish your post.
-Commenting on a Post
-Navigate to a post you want to comment on.
-Scroll down to the comments section.
-Write your comment in the provided text box.
-Click "Submit" to post your comment.
-Contributing
-We welcome contributions! Please follow these steps:
-
-Fork the repository.
-Create a new branch:
-sh
-Copy code
-git checkout -b feature/your-feature-name
-Make your changes and commit them:
-sh
-Copy code
-git commit -m 'Add some feature'
-Push to the branch:
-sh
-Copy code
-git push origin feature/your-feature-name
-Open a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
-For any questions or feedback, please open an issue or contact us at support@blogwebsite.com.
-
-Thank you for using our Blog Website! Happy blogging!
-
-Copy code
+---
 
 
+## 👨‍💻 About Me  
+Hi, I’m **Raj Bhushan Kandu** 👋  
+- 🎓 B.Tech in Computer Science & Engineering  
+- 💻 Full-Stack Developer | Blockchain Enthusiast  
+- 🏆 6⭐ Problem Solving on HackerRank | 150+ LeetCode problems solved  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/raj-bhushan-489632265/)
+---
 
-
-User
-write simple readme for a resume builder
-ChatGPT
-markdown
-Copy code
-# Resume Builder README
-
-Welcome to our Resume Builder! This document provides a simple overview to help you get started.
-
-## Features
-
-- **User Registration**: Create an account to save and manage your resumes.
-- **Create Resumes**: Build professional resumes with ease.
-- **Templates**: Choose from various templates to suit your style and industry.
-- **Download as PDF**: Export your resumes in PDF format.
-- **Responsive Design**: Enjoy a seamless experience on both desktop and mobile devices.
-
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (version 14.x or higher)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
-
-### Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/resume-builder.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd resume-builder
-    ```
-3. Install dependencies:
-    ```sh
-    npm install
-    ```
-
-### Running the Application
-
-To start the application, run:
-
-```sh
-npm start
-The application will be accessible at http://localhost:3000.
-
-Usage
-Creating a Resume
-Register or log in to your account.
-Click on "Create Resume" in the navigation menu.
-Fill in your personal information, education, work experience, and skills.
-Choose a template that fits your needs.
-Click "Save" to store your resume or "Download as PDF" to export it.
-Contributing
-We welcome contributions! Please follow these steps:
-
-Fork the repository.
-Create a new branch:
-
-git checkout -b feature/your-feature-name
-Make your changes and commit them:
-
-git commit -m 'Add some feature'
-Push to the branch:
-
-
-git push origin feature/your-feature-name
-Open a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
-For any questions or feedback, please open an issue or contact us at graj63840@gmail.com
-
-
-Thank you for using our Resume Builder! Happy building!
+ 
